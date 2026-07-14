@@ -1,2 +1,2 @@
-this is editing for conf
+this line is editing for conflicts 
 this is second line from github
