@@ -1,1 +1,2 @@
 this is for fetch practice
+this is second line from git fetch practice
